@@ -1,0 +1,19 @@
+# Originales pesados: se guardan solo en esta computadora. Lo que se publica es media/.
+_originales/
+
+# Material de trabajo que no forma parte del sitio
+referencias paginas web/
+skills videos/
+*.mp4
+*.psd
+*.rar
+*.zip
+
+# Herramientas locales
+.claude/
+.playwright-cli/
+.impeccable/
+node_modules/
+__pycache__/
+Thumbs.db
+.DS_Store

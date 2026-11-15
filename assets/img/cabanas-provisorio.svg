@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-label="Esquema provisorio">
+  <rect width="1600" height="1000" fill="#eceae6"/>
+  <!-- curvas de nivel -->
+  <g fill="none" stroke="#cfccc6" stroke-width="1.5">
+    <path d="M-40 250 C 260 150, 520 300, 820 190 S 1380 60, 1660 170"/>
+    <path d="M-40 340 C 240 250, 540 400, 860 290 S 1400 170, 1660 280"/>
+    <path d="M-40 450 C 220 370, 300 520, 620 470 S 1000 360, 1660 420"/>
+    <path d="M-40 600 C 200 520, 420 700, 760 600 S 1300 500, 1660 590"/>
+    <path d="M-40 730 C 240 660, 500 820, 820 730 S 1360 650, 1660 730"/>
+    <path d="M-40 860 C 260 800, 560 930, 880 850 S 1400 790, 1660 860"/>
+  </g>
+  <!-- volumenes provisorios -->
+  <g fill="#f7f6f3" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round">
+    <path d="M352 440 576 370 736 430 736 560 512 630 352 570Z"/>
+    <path d="M512 500 352 440M512 500 736 430M512 500 512 630" fill="none"/>
+    <path d="M800 300 1120 210 1312 280 1312 420 992 510 800 440Z"/>
+    <path d="M992 370 800 300M992 370 1312 280M992 370 992 510" fill="none"/>
+    <path d="M832 620 1056 550 1216 610 1216 740 992 810 832 750Z"/>
+    <path d="M992 680 832 620M992 680 1216 610M992 680 992 810" fill="none"/>
+  </g>
+  <text x="60" y="940" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="20" letter-spacing="2" fill="#8a8882">ESQUEMA PROVISORIO</text>
+</svg>

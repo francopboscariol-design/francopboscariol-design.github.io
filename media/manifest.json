@@ -1,0 +1,346 @@
+{
+ "bajoterra/maqueta": {
+  "h": 721,
+  "sizes": [
+   480,
+   889
+  ],
+  "w": 889
+ },
+ "bajoterra/planta-baja": {
+  "h": 490,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4317
+ },
+ "bajoterra/planta-entrepiso": {
+  "h": 493,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4317
+ },
+ "bajoterra/planta-subsuelo": {
+  "h": 493,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4317
+ },
+ "bajoterra/render-subsuelo": {
+  "h": 1934,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4678
+ },
+ "galeria/las-charas-01": {
+  "h": 4200,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3600
+ },
+ "galeria/las-charas-02": {
+  "h": 4200,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3600
+ },
+ "galeria/parque-innovacion-01": {
+  "h": 4134,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3544
+ },
+ "galeria/parque-innovacion-02": {
+  "h": 4200,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3600
+ },
+ "galeria/parque-innovacion-03": {
+  "h": 3500,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3000
+ },
+ "galeria/parque-innovacion-04": {
+  "h": 3500,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3000
+ },
+ "galeria/vieja-terminal-01": {
+  "h": 3600,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4200
+ },
+ "galeria/vieja-terminal-02": {
+  "h": 4200,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3600
+ },
+ "la-ciudad-cubierta/exterior-01": {
+  "h": 3000,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 2572
+ },
+ "la-ciudad-cubierta/exterior-02": {
+  "h": 2000,
+  "sizes": [
+   480,
+   960,
+   1600,
+   1715
+  ],
+  "w": 1715
+ },
+ "la-ciudad-cubierta/exterior-03": {
+  "h": 2000,
+  "sizes": [
+   480,
+   960,
+   1600,
+   1715
+  ],
+  "w": 1715
+ },
+ "la-ciudad-cubierta/exterior-04": {
+  "h": 2000,
+  "sizes": [
+   480,
+   960,
+   1600,
+   1715
+  ],
+  "w": 1715
+ },
+ "la-ciudad-cubierta/interior-01": {
+  "h": 2000,
+  "sizes": [
+   480,
+   960,
+   1600,
+   1715
+  ],
+  "w": 1715
+ },
+ "la-ciudad-cubierta/interior-02": {
+  "h": 2000,
+  "sizes": [
+   480,
+   960,
+   1600,
+   1715
+  ],
+  "w": 1715
+ },
+ "la-ciudad-cubierta/invernadero-01": {
+  "h": 2000,
+  "sizes": [
+   480,
+   960,
+   1600,
+   1715
+  ],
+  "w": 1715
+ },
+ "la-ciudad-cubierta/invernadero-02": {
+  "h": 2000,
+  "sizes": [
+   480,
+   960,
+   1600,
+   1715
+  ],
+  "w": 1715
+ },
+ "la-ciudad-cubierta/invernadero-03": {
+  "h": 2000,
+  "sizes": [
+   480,
+   960,
+   1600,
+   1715
+  ],
+  "w": 1715
+ },
+ "la-ciudad-cubierta/planta-libre-01": {
+  "h": 2368,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2032
+  ],
+  "w": 2032
+ },
+ "la-ciudad-cubierta/planta-libre-02": {
+  "h": 2368,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2032
+  ],
+  "w": 2032
+ },
+ "re-casino/axo-masterplan": {
+  "h": 4961,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400,
+   4000
+  ],
+  "w": 10524
+ },
+ "re-casino/axo-naval": {
+  "h": 4961,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3508
+ },
+ "re-casino/axo-torres": {
+  "h": 4961,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3508
+ },
+ "re-casino/corte": {
+  "h": 4961,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400,
+   4000
+  ],
+  "w": 7016
+ },
+ "re-casino/planta-terraza": {
+  "h": 4961,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400,
+   4000
+  ],
+  "w": 7016
+ },
+ "re-casino/planta-tipo": {
+  "h": 4961,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400,
+   4000
+  ],
+  "w": 7016
+ },
+ "re-casino/render-club": {
+  "h": 4286,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400,
+   4000
+  ],
+  "w": 5000
+ },
+ "re-casino/render-masterplan": {
+  "h": 3456,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4928
+ },
+ "re-casino/render-naval": {
+  "h": 4286,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400,
+   4000
+  ],
+  "w": 5000
+ },
+ "re-casino/render-torres": {
+  "h": 5000,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4286
+ }
+}

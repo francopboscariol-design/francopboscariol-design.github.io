@@ -1,0 +1,177 @@
+{
+  "name": "Franco Boscariol",
+  "role": { "es": "Arquitecto", "en": "Architect" },
+  "location": { "es": "Buenos Aires, Argentina", "en": "Buenos Aires, Argentina" },
+  "description": {
+    "es": "Portfolio de Franco Boscariol, arquitecto. Proyectos, tesis e imágenes de arquitectura.",
+    "en": "Portfolio of Franco Boscariol, architect. Projects, thesis and architectural images."
+  },
+
+  "nav": [
+    { "id": "about", "label": { "es": "Sobre mí", "en": "About" } },
+    { "id": "projects", "label": { "es": "Proyectos", "en": "Projects" } },
+    { "id": "images", "label": { "es": "Imágenes", "en": "Images" } },
+    { "id": "contact", "label": { "es": "Contacto", "en": "Contact" } }
+  ],
+
+  "about": {
+    "image": "la-ciudad-cubierta/exterior-04",
+    "imageCaption": { "es": "La ciudad cubierta, 2026", "en": "La ciudad cubierta, 2026" },
+    "statement": {
+      "es": "Arquitecto por la Universidad Torcuato Di Tella. Trabajo entre el proyecto y la imagen: dibujo, modelo y produzco visualizaciones de arquitectura.",
+      "en": "Architect, graduated from Universidad Torcuato Di Tella. I work between the project and the image: drawing, modelling and producing architectural visualisations."
+    },
+    "bio": [
+      {
+        "es": "Nací en Jujuy y vivo en Buenos Aires. Me recibí en 2025 con la tesis RE: Casino, un plan para la Dársena Sur de Puerto Madero desarrollado en equipo.",
+        "en": "Born in Jujuy, based in Buenos Aires. I graduated in 2025 with RE: Casino, a team thesis on a masterplan for Dársena Sur, Puerto Madero."
+      },
+      {
+        "es": "Hoy trabajo en el estudio de visualización ethandeclerk y, en paralelo, desarrollo imágenes y proyectos de forma independiente.",
+        "en": "I currently work at the visualisation studio ethandeclerk and, in parallel, develop images and projects independently."
+      }
+    ],
+    "cvPdf": "",
+    "cv": [
+      {
+        "title": { "es": "Experiencia", "en": "Experience" },
+        "items": [
+          {
+            "period": { "es": "Actualidad", "en": "Present" },
+            "title": { "es": "Visualización arquitectónica", "en": "Architectural visualisation" },
+            "place": { "es": "ethandeclerk, Buenos Aires", "en": "ethandeclerk, Buenos Aires" }
+          },
+          {
+            "period": "2025",
+            "title": { "es": "Práctica profesional en el exterior", "en": "Professional internship abroad" },
+            "place": { "es": "Josep Ferrando Architecture", "en": "Josep Ferrando Architecture" }
+          },
+          {
+            "period": "2022 — 2024",
+            "title": { "es": "Renderizado para arquitectos particulares", "en": "Rendering for independent architects" },
+            "place": { "es": "Independiente", "en": "Freelance" }
+          },
+          {
+            "period": "2023",
+            "title": { "es": "Pasantía en estudio fotográfico", "en": "Internship, photography studio" },
+            "place": { "es": "Arq. Javier Agustín Rojas", "en": "Javier Agustín Rojas, architect" }
+          },
+          {
+            "period": "2022 — 2023",
+            "title": { "es": "Dibujo de planimetría", "en": "Architectural drafting" },
+            "place": {
+              "es": "Arq. Pablo Boreli, Arq. Giu Mastronardi, Arq. Juan José Boscariol",
+              "en": "Pablo Boreli, Giu Mastronardi, Juan José Boscariol, architects"
+            }
+          }
+        ]
+      },
+      {
+        "title": { "es": "Formación", "en": "Education" },
+        "items": [
+          {
+            "period": "2026",
+            "title": { "es": "Posgrado «La ciudad cubierta»", "en": "Postgraduate course “La ciudad cubierta”" },
+            "place": {
+              "es": "Instituto Bioclimático de Proyecto, Universidad Católica de Córdoba",
+              "en": "Instituto Bioclimático de Proyecto, Universidad Católica de Córdoba"
+            }
+          },
+          {
+            "period": "2020 — 2025",
+            "title": { "es": "Arquitectura", "en": "Architecture degree" },
+            "place": {
+              "es": "Universidad Torcuato Di Tella. Beca Interior 50 %",
+              "en": "Universidad Torcuato Di Tella. 50 % Interior scholarship"
+            }
+          },
+          {
+            "period": "2007 — 2019",
+            "title": { "es": "Bachiller en Ciencias Naturales", "en": "High school diploma, Natural Sciences" },
+            "place": {
+              "es": "Colegio del Salvador, San Salvador de Jujuy",
+              "en": "Colegio del Salvador, San Salvador de Jujuy"
+            }
+          }
+        ]
+      },
+      {
+        "title": { "es": "Otras actividades", "en": "Other activities" },
+        "items": [
+          {
+            "period": "2021",
+            "title": { "es": "Voluntariado de apoyo escolar", "en": "Volunteer school tutoring" },
+            "place": {
+              "es": "Centro Universitario de Estudios (CUDES)",
+              "en": "Centro Universitario de Estudios (CUDES)"
+            }
+          }
+        ]
+      }
+    ],
+    "skillsTitle": { "es": "Herramientas", "en": "Tools" },
+    "skills": [
+      "Rhinoceros", "Grasshopper", "3ds Max", "Corona Renderer", "V-Ray", "AutoCAD",
+      "Photoshop", "Illustrator", "InDesign", "Lightroom", "SketchUp", "Lumion", "DaVinci Resolve"
+    ],
+    "languagesTitle": { "es": "Idiomas", "en": "Languages" },
+    "languages": [
+      { "es": "Español, nativo", "en": "Spanish, native" },
+      { "es": "Inglés, intermedio", "en": "English, intermediate" }
+    ]
+  },
+
+  "contact": {
+    "lead": {
+      "es": "Para proyectos, imágenes o colaboraciones, escribime.",
+      "en": "For projects, images or collaborations, get in touch."
+    },
+    "email": "francop.boscariol@gmail.com",
+    "instagram": "francoboscariol"
+  },
+
+  "ui": {
+    "skip": { "es": "Saltar al contenido", "en": "Skip to content" },
+    "menu": { "es": "Menú", "en": "Menu" },
+    "close": { "es": "Cerrar", "en": "Close" },
+    "prev": { "es": "Anterior", "en": "Previous" },
+    "next": { "es": "Siguiente", "en": "Next" },
+    "all": { "es": "Todo", "en": "All" },
+    "projectsTitle": { "es": "Proyectos", "en": "Projects" },
+    "projectsLead": {
+      "es": "Tesis, posgrado y trabajos de la facultad. Los proyectos interactivos se recorren desde una vista general.",
+      "en": "Thesis, postgraduate and academic work. Interactive projects are explored from an overall view."
+    },
+    "imagesTitle": { "es": "Imágenes", "en": "Images" },
+    "imagesLead": {
+      "es": "Visualizaciones de arquitectura.",
+      "en": "Architectural visualisations."
+    },
+    "contactTitle": { "es": "Contacto", "en": "Contact" },
+    "interactive": { "es": "Interactivo", "en": "Interactive" },
+    "inProgress": { "es": "En desarrollo", "en": "In progress" },
+    "sceneHint": {
+      "es": "Elegí una parte del proyecto",
+      "en": "Choose a part of the project"
+    },
+    "sceneHintTouch": {
+      "es": "Tocá un número para entrar",
+      "en": "Tap a number to enter"
+    },
+    "backToOverview": { "es": "Vista general", "en": "Overview" },
+    "nextPart": { "es": "Siguiente parte", "en": "Next part" },
+    "noImages": { "es": "Imágenes en preparación.", "en": "Images coming soon." },
+    "images": { "es": "imágenes", "en": "images" },
+    "image": { "es": "imagen", "en": "image" },
+    "documentation": { "es": "Documentación", "en": "Documentation" },
+    "nextProject": { "es": "Siguiente proyecto", "en": "Next project" },
+    "allProjects": { "es": "Todos los proyectos", "en": "All projects" },
+    "viewProject": { "es": "Ver proyecto", "en": "View project" },
+    "copy": { "es": "Copiar", "en": "Copy" },
+    "copied": { "es": "Copiado", "en": "Copied" },
+    "email": { "es": "Mail", "en": "Email" },
+    "downloadCv": { "es": "Descargar CV (PDF)", "en": "Download CV (PDF)" },
+    "top": { "es": "Arriba", "en": "Top" },
+    "notFound": { "es": "No encontré esa página.", "en": "That page was not found." }
+  }
+}

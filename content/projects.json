@@ -1,0 +1,223 @@
+[
+  {
+    "slug": "re-casino",
+    "title": "RE: Casino",
+    "kind": { "es": "Tesis de grado", "en": "Graduation thesis" },
+    "year": "2025",
+    "place": { "es": "Dársena Sur, Buenos Aires", "en": "Dársena Sur, Buenos Aires" },
+    "cover": "re-casino/render-masterplan",
+    "summary": {
+      "es": "Un plan para la Dársena Sur de Puerto Madero: las preexistencias se reprograman, el agua se activa como soporte y los vacíos se densifican.",
+      "en": "A masterplan for Dársena Sur, Puerto Madero: existing structures are reprogrammed, the water becomes a support and the voids are densified."
+    },
+    "text": [
+      {
+        "es": "La tesis se sitúa en la Dársena Sur de la Ciudad de Buenos Aires, en el borde de Puerto Madero, un territorio estratégico que hoy funciona como fragmento aislado, con grandes vacíos, infraestructuras en desuso y escasa vida urbana.",
+        "en": "The thesis is set in Dársena Sur, on the edge of Puerto Madero in Buenos Aires: a strategic territory that today works as an isolated fragment, with large voids, disused infrastructure and little urban life."
+      },
+      {
+        "es": "A partir de la presencia del Casino de Buenos Aires, la ex Intendencia Naval y sus galpones, el proyecto identifica un potencial latente en la condición híbrida entre tierra y agua. La dársena se aborda como un laboratorio urbano que ensaya nuevas formas de habitar a través de la convivencia entre vivienda, ocio, cultura y deporte.",
+        "en": "Starting from the Casino de Buenos Aires, the former Naval Intendancy and its sheds, the project finds latent potential in the hybrid condition between land and water. The dock is approached as an urban laboratory that tests new ways of living through the coexistence of housing, leisure, culture and sport."
+      }
+    ],
+    "facts": [
+      { "label": { "es": "Materia", "en": "Course" }, "value": { "es": "Tesis Proyectual, UTDT EAEU", "en": "Design Thesis, UTDT EAEU" } },
+      { "label": { "es": "Equipo", "en": "Team" }, "value": "Franco Boscariol, Agustín Dassieu Blanchet, Santiago Posse Molina" },
+      { "label": { "es": "Profesores", "en": "Professors" }, "value": "Marcelo Faiden, Iñaki Harosteguy, Sabine Kastner, Luciana Lembo, Tomás Pérez Amenta" },
+      { "label": { "es": "Adjuntos", "en": "Assistant professors" }, "value": "Felipe Carrizo, Francisco Escapil, Germán Lentini, Paula Pockay" },
+      { "label": { "es": "Publicación", "en": "Publication" }, "value": { "es": "Repositorio Digital UTDT", "en": "UTDT Digital Repository" }, "href": "https://repositorio.utdt.edu/handle/20.500.13098/14282" }
+    ],
+    "scene": {
+      "image": "re-casino/axo-masterplan",
+      "tone": "light",
+      "mobileZoom": 1.6,
+      "alt": { "es": "Axonometría del master plan de la Dársena Sur", "en": "Axonometric drawing of the Dársena Sur masterplan" },
+      "zones": [
+        {
+          "id": "torres",
+          "title": { "es": "Torres", "en": "Towers" },
+          "text": { "es": "", "en": "" },
+          "points": [[2.3,40],[4.4,40],[4.4,43.6],[5.8,43.6],[5.8,38.9],[7.9,38.9],[8.4,45],[8.4,61.6],[1.3,61.6],[1.3,44]],
+          "images": ["re-casino/render-torres", "re-casino/axo-torres"]
+        },
+        {
+          "id": "re-naval",
+          "title": { "es": "RE: Naval", "en": "RE: Naval" },
+          "text": { "es": "", "en": "" },
+          "points": [[47,44.2],[51.2,44.2],[51.2,43.4],[54.4,43.4],[54.4,44.2],[59.7,44.2],[59.9,52.2],[47,52.2]],
+          "images": ["re-casino/render-naval", "re-casino/axo-naval", "re-casino/corte", "re-casino/planta-tipo", "re-casino/planta-terraza"]
+        },
+        {
+          "id": "puerto",
+          "title": { "es": "Puerto de experiencias", "en": "Port of experiences" },
+          "text": { "es": "", "en": "" },
+          "points": [[35,58.8],[70.4,58.8],[70.4,64.8],[35,64.8]],
+          "images": ["re-casino/render-masterplan"]
+        },
+        {
+          "id": "club",
+          "title": { "es": "Club", "en": "Club" },
+          "text": { "es": "", "en": "" },
+          "points": [[77,49.4],[87,48.8],[87,54.2],[77,54.2]],
+          "images": ["re-casino/render-club"]
+        }
+      ]
+    },
+    "gallery": [
+      "re-casino/render-masterplan",
+      "re-casino/corte",
+      "re-casino/planta-tipo",
+      "re-casino/planta-terraza"
+    ]
+  },
+
+  {
+    "slug": "la-ciudad-cubierta",
+    "title": "La ciudad cubierta",
+    "kind": { "es": "Posgrado", "en": "Postgraduate course" },
+    "year": "2026",
+    "place": { "es": "Cordón frutihortícola, La Plata", "en": "Horticultural belt, La Plata" },
+    "cover": "la-ciudad-cubierta/exterior-01",
+    "summary": {
+      "es": "Un ensayo visual sobre el cordón frutihortícola de La Plata: 1.720 hectáreas de invernaderos, una ciudad real bajo techo pero invisible como ciudad.",
+      "en": "A visual essay on La Plata's horticultural belt: 1,720 hectares of greenhouses, a real city under one roof yet invisible as a city."
+    },
+    "text": [
+      {
+        "es": "Curso de posgrado del Instituto Bioclimático de Proyecto (IBP UCC). El taller trabaja sobre el cordón que abastece de frutas y verduras al Gran Buenos Aires, leído como un interior continuo destinado a la producción.",
+        "en": "Postgraduate course at the Instituto Bioclimático de Proyecto (IBP UCC). The studio works on the belt that supplies fruit and vegetables to Greater Buenos Aires, read as a continuous interior devoted to production."
+      },
+      {
+        "es": "El proyecto superpone a los invernaderos una nave de manufactura y logística. Las imágenes se produjeron combinando modelo 3D, render y herramientas de inteligencia artificial.",
+        "en": "The project overlays a manufacturing and logistics hall on the greenhouses. The images were produced by combining 3D modelling, rendering and artificial intelligence tools."
+      }
+    ],
+    "facts": [
+      { "label": { "es": "Curso", "en": "Course" }, "value": { "es": "La ciudad cubierta, IBP UCC", "en": "La ciudad cubierta, IBP UCC" } },
+      { "label": { "es": "Docentes", "en": "Tutors" }, "value": "Francisco Escapil (Rural Index AI), Iñaki Harosteguy (Supra Order)" },
+      { "label": { "es": "Coordinación", "en": "Coordination" }, "value": "Ignacio José Imwinkelried" }
+    ],
+    "scene": {
+      "image": "la-ciudad-cubierta/exterior-01",
+      "tone": "dark",
+      "alt": { "es": "Vista exterior del conjunto", "en": "Exterior view of the complex" },
+      "zones": [
+        {
+          "id": "nave",
+          "title": { "es": "Nave de procesamiento", "en": "Processing hall" },
+          "text": { "es": "", "en": "" },
+          "points": [[20.3,54],[37.8,49.2],[40.5,49],[44.5,50.2],[96.3,57.5],[96.5,64],[38,62.5],[20.3,63.7]],
+          "images": ["la-ciudad-cubierta/interior-01", "la-ciudad-cubierta/planta-libre-01", "la-ciudad-cubierta/planta-libre-02", "la-ciudad-cubierta/exterior-03"]
+        },
+        {
+          "id": "planta-baja",
+          "title": { "es": "Planta baja y logística", "en": "Ground floor and logistics" },
+          "text": { "es": "", "en": "" },
+          "points": [[20.5,63.9],[38,62.7],[96.5,64.2],[92,67.8],[38,68.6],[20.5,68]],
+          "images": ["la-ciudad-cubierta/interior-02", "la-ciudad-cubierta/exterior-02"]
+        },
+        {
+          "id": "invernaderos",
+          "title": { "es": "Invernaderos", "en": "Greenhouses" },
+          "text": { "es": "", "en": "" },
+          "points": [[2.5,64.6],[20.2,63.2],[20.2,67.9],[2.8,67.8]],
+          "images": ["la-ciudad-cubierta/invernadero-01", "la-ciudad-cubierta/invernadero-02", "la-ciudad-cubierta/invernadero-03", "la-ciudad-cubierta/exterior-04"]
+        }
+      ]
+    },
+    "gallery": [
+      "la-ciudad-cubierta/exterior-04",
+      "la-ciudad-cubierta/exterior-02",
+      "la-ciudad-cubierta/invernadero-02",
+      "la-ciudad-cubierta/interior-01",
+      "la-ciudad-cubierta/exterior-03",
+      "la-ciudad-cubierta/planta-libre-01"
+    ]
+  },
+
+  {
+    "slug": "cabanas-jujuy",
+    "title": { "es": "Cabañas en Jujuy", "en": "Cabins in Jujuy" },
+    "kind": { "es": "Proyecto", "en": "Project" },
+    "year": "2026",
+    "status": "inProgress",
+    "place": { "es": "Jujuy, Argentina", "en": "Jujuy, Argentina" },
+    "cover": "assets/img/cabanas-provisorio.svg",
+    "coverRatio": 1.6,
+    "summary": {
+      "es": "Un conjunto de cabañas en Jujuy, en desarrollo.",
+      "en": "A group of cabins in Jujuy, in progress."
+    },
+    "text": [
+      {
+        "es": "Proyecto en desarrollo. La vista general y las imágenes de cada parte se van a ir sumando a medida que avance.",
+        "en": "Work in progress. The overall view and the images of each part will be added as the project develops."
+      }
+    ],
+    "facts": [],
+    "scene": {
+      "image": "assets/img/cabanas-provisorio.svg",
+      "ratio": 1.6,
+      "tone": "light",
+      "alt": { "es": "Esquema provisorio del conjunto", "en": "Provisional diagram of the complex" },
+      "zones": [
+        {
+          "id": "cabana-tipo",
+          "title": { "es": "Cabaña tipo", "en": "Typical cabin" },
+          "text": { "es": "", "en": "" },
+          "points": [[22,44],[36,37],[46,43],[46,56],[32,63],[22,57]],
+          "images": []
+        },
+        {
+          "id": "espacio-comun",
+          "title": { "es": "Espacio común", "en": "Shared space" },
+          "text": { "es": "", "en": "" },
+          "points": [[50,30],[70,21],[82,28],[82,42],[62,51],[50,44]],
+          "images": []
+        },
+        {
+          "id": "implantacion",
+          "title": { "es": "Implantación", "en": "Site" },
+          "text": { "es": "", "en": "" },
+          "points": [[52,62],[66,55],[76,61],[76,74],[62,81],[52,75]],
+          "images": []
+        }
+      ]
+    },
+    "gallery": []
+  },
+
+  {
+    "slug": "bajoterra",
+    "title": "Bajoterra",
+    "kind": { "es": "Proyecto Arquitectónico VI", "en": "Architectural Design VI" },
+    "year": "2023",
+    "place": { "es": "San Juan y Boedo, Buenos Aires", "en": "San Juan and Boedo, Buenos Aires" },
+    "cover": "bajoterra/render-subsuelo",
+    "summary": {
+      "es": "Un parque lineal en San Juan y Boedo que se integra con un ecosistema subterráneo.",
+      "en": "A linear park at San Juan and Boedo that merges with an underground ecosystem."
+    },
+    "text": [
+      {
+        "es": "El proyecto, situado en la intersección de San Juan y Boedo, tiene como objetivo principal la creación de un parque lineal. Este parque no solo busca abordar la falta de espacios públicos, sino que también se integra con un ecosistema subterráneo para ampliar la disponibilidad de espacio público y mejorar la calidad de vida de los habitantes de la ciudad.",
+        "en": "Located at the intersection of San Juan and Boedo, the project's main aim is to create a linear park. The park not only addresses the lack of public space but also merges with an underground ecosystem, expanding the public space available and improving the quality of life of the city's inhabitants."
+      },
+      {
+        "es": "El diseño se adapta a las necesidades de movilidad: los vehículos a motor son reemplazados por sistemas de transporte ecoamigables. Una red eficiente de transporte público, junto con sistemas de movilidad personal, permite desplazarse de manera rápida sin dejar una huella negativa en el medio ambiente.",
+        "en": "The design adapts to mobility needs: motor vehicles are replaced by eco-friendly transport systems. An efficient public transport network, together with personal mobility systems, allows people to move quickly without leaving a negative footprint on the environment."
+      }
+    ],
+    "facts": [
+      { "label": { "es": "Materia", "en": "Course" }, "value": { "es": "Proyecto Arquitectónico VI, UTDT", "en": "Architectural Design VI, UTDT" } },
+      { "label": { "es": "Equipo", "en": "Team" }, "value": "Franco Boscariol, Milagros Touron, Javier Cordova Diaz, Rosario Sarli" },
+      { "label": { "es": "Profesores", "en": "Professors" }, "value": "Sergio Forster, Pablo Lionti, Ian Groisman Marcilla" }
+    ],
+    "gallery": [
+      { "img": "bajoterra/planta-baja", "caption": { "es": "Planta baja", "en": "Ground floor plan" }, "wide": true },
+      { "img": "bajoterra/planta-entrepiso", "caption": { "es": "Planta entrepiso", "en": "Mezzanine plan" }, "wide": true },
+      { "img": "bajoterra/planta-subsuelo", "caption": { "es": "Planta subsuelo", "en": "Underground plan" }, "wide": true },
+      { "img": "bajoterra/maqueta", "caption": { "es": "Maqueta", "en": "Model" } }
+    ]
+  }
+]
