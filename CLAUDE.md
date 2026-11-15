@@ -62,7 +62,19 @@ y abrir al menos una zona de una escena.
 5. **Imágenes**: los tres trabajos cargados son particulares (`freelance`). Cuando haya imágenes del
    estudio se cargan con `"group": "studio"` y el filtro Todo / Estudio / Particular aparece solo.
    Antes de publicar trabajo del estudio, confirmar que Franco tiene permiso.
-6. **Publicación**: destino elegido, GitHub Pages. Ver el estado en COMO-ACTUALIZAR.md.
+6. **Textos y zonas sin validar ya están en línea**: todo lo anterior se publicó tal cual el
+   15/11/2026. Corregirlo es editar el JSON y volver a publicar.
+
+## Publicación
+
+Publicado en GitHub Pages: https://francopboscariol-design.github.io/
+Repositorio (público): `francopboscariol-design/francopboscariol-design.github.io`, rama `main`,
+raíz. Pages despliega solo con cada `git push`; tarda uno o dos minutos. Publicar = `git add -A`,
+`git commit`, `git push`. Las credenciales están guardadas en el Administrador de credenciales de
+Git de Windows. Si `git push` pide autorización de nuevo, correrlo en el panel de Terminal (necesita
+una ventana interactiva). Los commits usan el mail `francopboscariol-design@users.noreply.github.com`
+(configurado solo en este repositorio) para no exponer el mail personal en el historial.
+Publicar es una acción hacia afuera: confirmar con Franco antes de cada `git push`.
 
 ## Skills instaladas en `.claude/skills/`
 

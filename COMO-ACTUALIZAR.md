@@ -79,8 +79,9 @@ Dentro del proyecto va un bloque `"scene"`:
 
 ## Publicar los cambios
 
-El sitio se publica en GitHub Pages. Una vez configurado (ver más abajo), cada actualización son
-tres comandos en una terminal abierta en esta carpeta, o pedirle a Claude «publicá los cambios»:
+El sitio está publicado en **https://francopboscariol-design.github.io/** (GitHub Pages, cuenta
+`francopboscariol-design`). Cada actualización son tres comandos en una terminal abierta en esta
+carpeta, o pedirle a Claude «publicá los cambios»:
 
 ```bash
 git add -A
