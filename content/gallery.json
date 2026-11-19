@@ -1,15 +1,22 @@
 {
   "groups": [
     { "id": "studio", "label": { "es": "Estudio", "en": "Studio" } },
-    { "id": "freelance", "label": { "es": "Particular", "en": "Freelance" } }
+    { "id": "freelance", "label": { "es": "Particular", "en": "Freelance" } },
+    { "id": "academic", "label": { "es": "Facultad", "en": "Academic" } }
   ],
   "items": [
     { "img": "galeria/parque-innovacion-02", "title": "Parque de Innovación", "year": "2026", "group": "freelance" },
+    { "img": "galeria/torre-suspendida-01", "title": "Torre suspendida", "year": "2025", "group": "academic" },
     { "img": "galeria/vieja-terminal-01", "title": "Concurso Vieja Terminal", "year": "2026", "group": "freelance" },
+    { "img": "galeria/torre-suspendida-02", "title": "Torre suspendida", "year": "2025", "group": "academic" },
     { "img": "galeria/las-charas-02", "title": "Las Charas", "year": "2026", "group": "freelance" },
+    { "img": "galeria/torre-suspendida-03", "title": "Torre suspendida", "year": "2025", "group": "academic" },
     { "img": "galeria/parque-innovacion-04", "title": "Parque de Innovación", "year": "2026", "group": "freelance" },
+    { "img": "galeria/torre-suspendida-05", "title": "Torre suspendida", "year": "2025", "group": "academic" },
     { "img": "galeria/vieja-terminal-02", "title": "Concurso Vieja Terminal", "year": "2026", "group": "freelance" },
+    { "img": "galeria/torre-suspendida-04", "title": "Torre suspendida", "year": "2025", "group": "academic" },
     { "img": "galeria/parque-innovacion-01", "title": "Parque de Innovación", "year": "2026", "group": "freelance" },
+    { "img": "galeria/torre-suspendida-06", "title": "Torre suspendida", "year": "2025", "group": "academic" },
     { "img": "galeria/las-charas-01", "title": "Las Charas", "year": "2026", "group": "freelance" },
     { "img": "galeria/parque-innovacion-03", "title": "Parque de Innovación", "year": "2026", "group": "freelance" }
   ]

@@ -107,6 +107,66 @@
   ],
   "w": 3000
  },
+ "galeria/torre-suspendida-01": {
+  "h": 4272,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3661
+ },
+ "galeria/torre-suspendida-02": {
+  "h": 5797,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4969
+ },
+ "galeria/torre-suspendida-03": {
+  "h": 3429,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4000
+ },
+ "galeria/torre-suspendida-04": {
+  "h": 3429,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4000
+ },
+ "galeria/torre-suspendida-05": {
+  "h": 3694,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3167
+ },
+ "galeria/torre-suspendida-06": {
+  "h": 2099,
+  "sizes": [
+   480,
+   960,
+   1600,
+   1799
+  ],
+  "w": 1799
+ },
  "galeria/vieja-terminal-01": {
   "h": 3600,
   "sizes": [
@@ -236,6 +296,88 @@
    2032
   ],
   "w": 2032
+ },
+ "portada/agus-final": {
+  "h": 4286,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400,
+   4000
+  ],
+  "w": 5000
+ },
+ "portada/agus-lateral": {
+  "h": 4200,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3600
+ },
+ "portada/agus-playa": {
+  "h": 4200,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 3600
+ },
+ "portada/esquina": {
+  "h": 4866,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400
+  ],
+  "w": 4171
+ },
+ "portada/exterior-02": {
+  "h": 2000,
+  "sizes": [
+   480,
+   960,
+   1600,
+   1715
+  ],
+  "w": 1715
+ },
+ "portada/hijo-de-la-noche": {
+  "h": 1080,
+  "sizes": [
+   480,
+   960,
+   1600,
+   1920
+  ],
+  "w": 1920
+ },
+ "portada/interior-02": {
+  "h": 2000,
+  "sizes": [
+   480,
+   960,
+   1600,
+   1715
+  ],
+  "w": 1715
+ },
+ "portada/render-naval": {
+  "h": 4286,
+  "sizes": [
+   480,
+   960,
+   1600,
+   2400,
+   4000
+  ],
+  "w": 5000
  },
  "re-casino/axo-masterplan": {
   "h": 4961,

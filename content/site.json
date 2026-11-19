@@ -1,10 +1,26 @@
 {
   "name": "Franco Boscariol",
   "role": { "es": "Arquitecto", "en": "Architect" },
-  "location": { "es": "Buenos Aires, Argentina", "en": "Buenos Aires, Argentina" },
+  "location": { "es": "Jujuy — Buenos Aires — Argentina", "en": "Jujuy — Buenos Aires — Argentina" },
   "description": {
     "es": "Portfolio de Franco Boscariol, arquitecto. Proyectos, tesis e imágenes de arquitectura.",
     "en": "Portfolio of Franco Boscariol, architect. Projects, thesis and architectural images."
+  },
+
+  "cover": {
+    "image": "portada/hijo-de-la-noche",
+    "ratio": [3000, 3500],
+    "crop": [61.5, 5.4, 86.8, 89.3],
+    "label": { "es": "Architect — Portfolio", "en": "Architect — Portfolio" },
+    "flash": [
+      "portada/render-naval",
+      "portada/exterior-02",
+      "portada/interior-02",
+      "portada/esquina",
+      "portada/agus-final",
+      "portada/agus-playa",
+      "portada/agus-lateral"
+    ]
   },
 
   "nav": [
@@ -172,6 +188,7 @@
     "email": { "es": "Mail", "en": "Email" },
     "downloadCv": { "es": "Descargar CV (PDF)", "en": "Download CV (PDF)" },
     "top": { "es": "Arriba", "en": "Top" },
+    "scroll": { "es": "Bajar", "en": "Scroll" },
     "notFound": { "es": "No encontré esa página.", "en": "That page was not found." }
   }
 }

@@ -17,3 +17,6 @@ node_modules/
 __pycache__/
 Thumbs.db
 .DS_Store
+
+# imagenes de trabajo, pesadas: los originales van en _originales/
+imagenes para usar/
